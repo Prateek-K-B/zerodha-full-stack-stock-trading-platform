@@ -17,19 +17,29 @@ This project is designed to be resume-ready and showcases practical full-stack d
 🧠 Tech Stack
 
 💻 Frontend
+
 ⚛️ React.js
+
 🚏 React Router DOM
+
 🌐 Axios
+
 🎨 CSS / Tailwind (UI styling)
+
 📊 Trading-style Dashboard UI
 
 🛠️ Backend
 
 🟢 Node.js
+
 🚀 Express.js
+
 🍃 MongoDB + Mongoose
+
 🌍 RESTful APIs
+
 ⚙️ Dotenv
+
 ♻️ Nodemon
 
 ---
