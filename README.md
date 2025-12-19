@@ -1,58 +1,56 @@
-This project is a full-stack stock trading and monitoring platform inspired by Zerodha.
-It simulates real-world trading features such as stock listings, buy/sell orders, portfolio tracking, and dashboard analytics using modern web technologies.
-The application is built to demonstrate frontend UI design, backend API development, database integration, and full-stack project architecture.
+A full-stack stock trading & portfolio monitoring platform inspired by real-world trading applications like Zerodha.
+Built using the MERN stack, this project demonstrates end-to-end frontend + backend integration, secure APIs, database modeling, and a modern trading dashboard UI.
 
-🛠 Tech Stack Used
-
-Frontend
-
-React.js
-
-JavaScript (ES6+)
-
-HTML5 & CSS3
-
-Chart.js / UI libraries
-
-Backend
-
-Node.js
-
-Express.js
-
-RESTful APIs
-
-Database
-
-MongoDB
-
-Mongoose
-
-Tools & Others
-
-Git & GitHub
-
-npm
-
-VS Code
+This project is designed to be resume-ready and showcases practical full-stack development skills 🚀
 
 🚀 Features
 
-User-friendly stock trading interface
+📊 Live-style Trading Dashboard — Clean and modern UI inspired by real stock trading platforms
+📈 Stock Watchlist & Holdings — Track selected stocks and user holdings
+🧾 Order Management System — Place Buy/Sell orders and store them in the database
+💼 Portfolio Overview — View invested amount, margin, and holdings summary
+🔗 Frontend–Backend Integration — REST APIs connected with MongoDB
+🔐 Environment-based Configuration — Secure use of environment variables
+📱 Responsive Design — Works across desktop and tablet screens
 
-Buy and sell stock simulation
+🧠 Tech Stack
+💻 Frontend
 
-Portfolio and holdings tracking
+⚛️ React.js
 
-Interactive dashboard with charts
+🚏 React Router DOM
 
-Backend APIs for orders and holdings
+🌐 Axios
 
-MongoDB data persistence
+🎨 CSS / Tailwind (UI styling)
 
-Clean project structure (frontend, backend, dashboard)
+📊 Trading-style Dashboard UI
 
-⚠️ Disclaimer
+🛠️ Backend
+
+🟢 Node.js
+
+🚀 Express.js
+
+🍃 MongoDB + Mongoose
+
+🌍 RESTful APIs
+
+⚙️ Dotenv
+
+♻️ Nodemon
+
+🧾 Application Flow
+
+User accesses the trading dashboard UI
+
+Stock data, orders, and holdings are managed through backend APIs
+
+Orders (Buy/Sell) are stored in MongoDB
+
+Portfolio & holdings data is fetched dynamically
+
+Frontend updates the UI based on backend responses
 
 This project is for educational purposes only and is not affiliated with Zerodha.
 It is inspired by real-world trading platforms to demonstrate full-stack development skills.
