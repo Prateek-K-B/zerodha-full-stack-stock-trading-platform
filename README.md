@@ -66,6 +66,7 @@ It is inspired by real-world trading platforms to demonstrate full-stack develop
 
 Zerodha-Full-Stack-Stock-Trading-Platform/
 │
+
 ├── backend/
 
 │   ├── models/
@@ -78,10 +79,15 @@ Zerodha-Full-Stack-Stock-Trading-Platform/
 
 │   └── package.json
 │
+
 ├── frontend/
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
+
 │
 
 ├── dashboard/
