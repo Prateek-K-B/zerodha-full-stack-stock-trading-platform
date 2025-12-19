@@ -78,6 +78,7 @@ Zerodha-Full-Stack-Stock-Trading-Platform/
 │   ├── index.js
 
 │   └── package.json
+
 │
 
 ├── frontend/
@@ -97,6 +98,7 @@ Zerodha-Full-Stack-Stock-Trading-Platform/
 │   ├── public/
 
 │   └── package.json
+
 │
 
 └── README.md
