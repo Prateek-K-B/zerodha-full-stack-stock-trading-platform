@@ -1,6 +1,6 @@
 A full-stack stock trading & portfolio monitoring platform inspired by real-world trading applications like Zerodha.
 Built using the MERN stack, this project demonstrates end-to-end frontend + backend integration, secure APIs, database modeling, and a modern trading dashboard UI.
-This project is designed to be resume-ready and showcases practical full-stack development skills 🚀
+This project is designed to be resume-ready and showcases practical full-stack development skills.🚀
 
 ---
 
@@ -67,10 +67,15 @@ It is inspired by real-world trading platforms to demonstrate full-stack develop
 Zerodha-Full-Stack-Stock-Trading-Platform/
 │
 ├── backend/
+
 │   ├── models/
+
 │   ├── schemas/
+
 │   ├── routes/
+
 │   ├── index.js
+
 │   └── package.json
 │
 ├── frontend/
@@ -78,11 +83,16 @@ Zerodha-Full-Stack-Stock-Trading-Platform/
 │   ├── public/
 │   └── package.json
 │
+
 ├── dashboard/
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
 │
+
 └── README.md
 
 ---
